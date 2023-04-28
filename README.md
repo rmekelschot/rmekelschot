@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=rmekelschot&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <!--### ✍️ Random Dev Quote-->
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<!--![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
