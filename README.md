@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔨 I'm currently working on projects to display on my portfolio.<br>🌱 I'm currently learning React<br>💪 I like to work out
+🔨 I'm currently working on projects to display on my portfolio.<br>🌱 I'm currently learning React<br>💪 My hobbies include working out, climbing, fishing, gardening, hiking and cooking
 
 ![](https://visitcount.itsvg.in/api?id=rmekelschot&icon=5&color=0)
 
